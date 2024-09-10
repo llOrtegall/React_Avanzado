@@ -48,7 +48,6 @@ public class User {
     @Override
     public String toString() {
         return  "---------------------------------------------" + "\n" +
-                "Name: " + this.name + " - " +"Age: " + this.age + "\n" +
-                "---------------------------------------------" ;
+                "Name: " + this.name + " - " +"Age: " + this.age + "\n";
     }
 }
